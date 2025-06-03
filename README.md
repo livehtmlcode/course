@@ -8,11 +8,11 @@
 
 ## 🚀 What You’ll Learn
 
-- 📄 Semantic HTML structure
-- 🖌️ Responsive CSS layouts & animations
-- 🧠 JavaScript logic, events & DOM manipulation
-- ⚡ 200+ CDN-based micro examples (Alpine.js, Anime.js & more)
-- 🧰 Real-world, editable mini projects
+- 📄 Semantic HTML structure  
+- 🖌️ Responsive CSS layouts & animations  
+- 🧠 JavaScript logic, events & DOM manipulation  
+- ⚡ 200+ CDN-based micro examples (Alpine.js, Anime.js & more)  
+- 🧰 Real-world, editable mini projects  
 
 ---
 
@@ -78,7 +78,7 @@ Programming isn’t just a skill — it’s a way to think clearly, solve meanin
 When you write a function or solve a bug, you’re not just coding —  
 **you’re reprogramming your confidence**.
 
-Let this journey turn:
+Let this journey turn:  
 - Confusion → Structure  
 - Anxiety → Creativity  
 - Isolation → Collaboration
@@ -99,13 +99,21 @@ Let ethics guide your direction and intelligence refine your solutions.
 
 ## ✅ Built With
 
-- HTML5 / CSS3 / JavaScript
-- Web-based live code editor
-- Modular architecture for future lesson expansion
+- HTML5 / CSS3 / JavaScript  
+- Web-based live code editor  
+- Modular architecture for future lesson expansion  
 - CDN-powered interactive micro examples
 
 ---
 
+## 🌐 Live Demo
+
+Check out the course live here:  
+[https://livehtmlcode.github.io/course/](https://livehtmlcode.github.io/course/)
+
+---
+
 ## 📦 Repository Structure
+
 
 
